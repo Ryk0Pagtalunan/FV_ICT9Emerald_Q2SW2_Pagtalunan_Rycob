@@ -1,0 +1,31 @@
+h1{
+	font-family: monospace;
+	text-align: center;
+	color: rgba(211, 220, 240, 0.8);
+}
+body{
+	background-color: #d92323;
+		background-image: url(https://img.freepik.com/free-vector/abstract-paper-style-background_23-2150744372.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+.container1{
+	background-color: rgba(61, 94, 151, 0.8);
+	width: auto;
+	padding: 10px;
+	border: 5px solid #170485;
+	box-shadow: 2px 2px 15px rgb(0,0,0, 1.2);
+	margin: 50px;
+}
+label{
+	color: rgba(200, 206, 240, 0.8);
+}
+#submit{
+	background-color: rgba(212, 53, 53, 0.8);
+	color: black;
+	border-radius: 5px;
+	font-size: 20px;
+}
+textarea{
+	fill: ;
+}
